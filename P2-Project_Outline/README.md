@@ -14,8 +14,8 @@ For this assignment, you will submit a high-level outline of your project. This 
 	Remembering everything necessary to send a proper letter can be difficult. This is what the generator takes care of for the user. 
 
 ### Features
-	Login - allows user to log in to individual account
-	User Profile - displays previously generated letters(forms previously completed by user)
+	Login - allows user to log in/log out of individual account
+	User Account Page - displays/links to previously generated letters(forms previously completed by user)
 	Letter Form - allows user to input information to form to generate letter
 ### Technologies
 	C#
