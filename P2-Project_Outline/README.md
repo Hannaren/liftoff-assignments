@@ -19,7 +19,8 @@ For this assignment, you will submit a high-level outline of your project. This 
 	Letter Form - allows user to input information to form to generate letter
 ### Technologies
 	C#
-	My SQL
+	MySQL
+	ASP.NET
 	others?
 ### What I'll Have to Learn
 	I expect I will need to learn how I want to save the initial empty version of the draft, as well as proper formatting for saving things connected to individual users. There's much more that I don't even know I need to add here...
