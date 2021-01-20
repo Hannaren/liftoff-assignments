@@ -15,7 +15,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Features
 	Login - allows user to log in to individual account
-	User Profile - optionally saves information used repeatedly to generate letter (name, address), and saves previously generated letters(forms)
+	User Profile - displays previously generated letters(forms previously completed by user)
 	Letter Form - allows user to input information to form to generate letter
 ### Technologies
 	C#
