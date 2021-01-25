@@ -18,11 +18,9 @@ For this assignment, you will submit a high-level outline of your project. This 
 	User Account Page - displays/links to previously generated letters(forms previously completed by user)
 	Letter Form - allows user to input information to form to generate letter
 ### Technologies
-	C#
-	MySQL
-	ASP.NET
-	others?
+	Java
+	React?
 ### What I'll Have to Learn
-	I expect I will need to learn how I want to save the initial empty version of the draft, as well as proper formatting for saving things connected to individual users. There's much more that I don't even know I need to add here...
+	Need to learn more about React. There's much more that I don't even know I need to add here...
 ### Project Tracker
 https://trello.com/b/o3LnEKgp/foia-request-generator
